@@ -1,1 +1,7 @@
-/* Add application styles & imports to this file! */
+/* You can add global styles to this file, and also import other style files */
+
+body { margin: 0; }
+
+.top-container {
+  margin-top: 30px;
+}
